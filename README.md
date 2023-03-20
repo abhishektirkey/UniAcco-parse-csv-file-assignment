@@ -40,7 +40,7 @@ Steps How to execute to Manipulate the python program and CSV file.
 # 10. All the Operations
   ![all](https://user-images.githubusercontent.com/93339541/226198351-1e2e8ca6-7598-4e5e-968f-7daf46488288.png)
 
-# 11. All the Operations
+# 11. Exit 
 ![10](https://user-images.githubusercontent.com/93339541/226198309-5dff1feb-fb37-46d5-9fef-f6056827215b.png)
   
  ![11](https://user-images.githubusercontent.com/93339541/226198327-4c06357b-07ac-4dde-bfd5-6de6288b6940.png)
